@@ -1,0 +1,7 @@
+loctest.out
+photometry.h.gch
+*.c
+!mean_flux_den.c
+*.py
+!setup.py
+build
